@@ -11,3 +11,11 @@ regularization with optimal parameters to overcome overfitting.
 identify top factors that influenced the results.
 
 ## Results of Model Evaluation:
+
+| Models            | Precision  |   Recall  | Accuracy  |
+|-------------------|------------| -------   |-----------|
+|Logistic Regression|  0.60      | 0.19      | 0.81      |
+|Random Forest      |  0.80      | 0.43      | 0.86      |
+|KNN                |  0.70      | 0.36      | 0.84      |
+|Naive Bayes        |  0.58      | 0.36      | 0.81      |
+
