@@ -10,7 +10,7 @@ regularization with optimal parameters to overcome overfitting.
 - Evaluated model performance of classification via 5-fold cross-validation technique and analyzed feature importance to
 identify top factors that influenced the results.
 
-## Results of Model Evaluation:
+## Results of Model Evaluation - Confusion Matrix:
 
 | Models            | Precision  |   Recall  | Accuracy  |
 |-------------------|------------| -------   |-----------|
