@@ -19,3 +19,17 @@ identify top factors that influenced the results.
 |KNN                |  0.70      | 0.36      | 0.84      |
 |Naive Bayes        |  0.58      | 0.36      | 0.81      |
 
+## Feature Importanc o Random Forest
+
+|Features          |Feature Importance|
+|------------------|------------------|
+|Age               |0.2428            |
+|Estimated Salary  |0.1453            |
+|Credit Score      |0.1446            |
+|Balance           |0.1427            |
+|Number of Products|0.1296            |
+|Tenure            |0.0817            |
+|is Active Member  |0.0383            |
+|Geography Germany |0.0205            |
+|Gender            |0.0182            |
+|Has Credit Card   |0.0178            |
