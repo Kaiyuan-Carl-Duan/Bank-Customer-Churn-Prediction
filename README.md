@@ -19,7 +19,7 @@ identify top factors that influenced the results.
 |KNN                |  0.70      | 0.36      | 0.84      |
 |Naive Bayes        |  0.58      | 0.36      | 0.81      |
 
-## Feature Importanc o Random Forest
+## Feature Importanc of Random Forest
 
 |Features          |Feature Importance|
 |------------------|------------------|
